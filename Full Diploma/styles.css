@@ -1,0 +1,13 @@
+@font-face {
+    font-family: OpenSans-Bold-ttf;
+    src: url('fonts/OpenSans-Bold.ttf');
+}
+
+@font-face {
+    
+}
+
+p {
+    font-family: OpenSans-bold-ttf;
+    font-size: 30px;
+}
